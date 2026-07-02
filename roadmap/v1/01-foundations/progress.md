@@ -1,11 +1,22 @@
 # Progress
 
-Status: 🟢 In Progress
+Status
 
-Started:
+🟢 In Progress
 
-Current Focus:
+Started
 
-Completed:
+2026-07-01
 
-Next Milestone:
+Current Focus
+
+Studying
+
+Completed
+
+- Foundations Bootstrap
+- Foundation roadmap
+
+Next Milestone
+
+Complete first issue
